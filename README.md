@@ -6,6 +6,6 @@
 Hai, saya Sidik Riffani. Senang bertemu denganmu! Saat ini saya tinggal di Bekasi.
 
 **Proyek:**
-* [Masukkan link proyekmu di sini]
+* [(https://revou-fundamental-course.github.io/14-oct-24-ristof5/)]
 
 
